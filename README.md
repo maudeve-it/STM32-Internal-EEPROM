@@ -12,6 +12,7 @@ The three folder you see here contain the handling library corresponding to the 
 <br>
 This respository will contain commentary, notes, and errata.<br>
 <br>
+
 ---
 > The software, schemes and PCB designs in this set of repositories are provided just for 
 > illustrative purposes, sharing the personal experience on this project. 
@@ -41,6 +42,7 @@ Il video mostra una serie di test di scrittura e cancellazione sulla EEPROM inte
 <br>
 I tre folder presenti qui contengono le librerie di gestione corrispondenti alle tre series di test mostrate nel video.<br>
 <br>
+
 ---
 > Il software e gli schemi di progetto come i layout PCB in questa serie di repository 
 > sono messe a disposizione con puro intento illustrativo e di condivisione dell'esperienza fatta
