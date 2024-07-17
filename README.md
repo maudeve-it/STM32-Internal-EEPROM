@@ -1,9 +1,11 @@
-# STM32-Internal-EEPROM
-Handling onboard EEPROM available on L0 and L1 series of STM32.
-
 _**Piu' sotto, al termine della lingua inglese trovi il testo in italiano. </i>**_
 _**<br>Below the English text you'll find the Italian version</i>**_
 <br>
+<br>
+<br>
+
+# STM32-Internal-EEPROM
+Handling onboard EEPROM available on L0 and L1 series of STM32.
 
 This repository contains the source code related to the YouTube video: <br>
 The video shows a series of tests writing and erasing the onboard EEprom of L0 and L1 uCs.<br>
