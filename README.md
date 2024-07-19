@@ -7,7 +7,7 @@ _**<br>Below the English text you'll find the Italian version</i>**_
 # STM32-Internal-EEPROM
 Handling onboard EEPROM available on L0 and L1 series of STM32.
 
-This repository contains the source code related to the YouTube video: <br>
+This repository contains the source code related to the YouTube video: https://youtu.be/fkZOvDmcDXI<br>
 The video shows a series of tests writing and erasing the onboard EEprom of L0 and L1 uCs.<br>
 <br>
 The three folder you see here contain the handling library corresponding to the three series of tests shown in the video.<br>
@@ -39,7 +39,7 @@ Gestire la EEPROM interna disponibile sula serie L0 e L1 di STM32.<br>
 
 <br>
 
-Quwsta repository contiene i sorgenti relativi al video YouTube: <br>
+Quwsta repository contiene i sorgenti relativi al video YouTube: https://youtu.be/fkZOvDmcDXI <br>
 Il video mostra una serie di test di scrittura e cancellazione sulla EEPROM interna della serie di uC L0 and L1.<br>
 <br>
 I tre folder presenti qui contengono le librerie di gestione corrispondenti alle tre series di test mostrate nel video.<br>
